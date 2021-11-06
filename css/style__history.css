@@ -138,5 +138,41 @@
 .skw-page-5 .skw-page__half--right .skw-page__content {
   background: #292929;
 }
+.skw-page-6 .skw-page__half--right .skw-page__content {
+  background-image: url("../img/kosava.jpg");
+}
+.skw-page-6 .skw-page__half--left .skw-page__content {
+  background: #292929;
+}
+.skw-page-7 .skw-page__half--left .skw-page__content {
+  background-image: url("../img/Церковь-крепость святого Михаила Архангела в Сынковичах.jpg");
+}
+.skw-page-7 .skw-page__half--right .skw-page__content {
+  background: #292929;
+}
+.skw-page-8 .skw-page__half--left .skw-page__content {
+  background-image: url("../img/kostsol solah.jpg");
+}
+.skw-page-8 .skw-page__half--right .skw-page__content {
+  background: #292929;
+}
+.skw-page-9 .skw-page__half--right .skw-page__content {
+  background-image: url("../img/лидский замок.jpg");
+}
+.skw-page-9 .skw-page__half--left .skw-page__content {
+  background: #292929;
+}
+.skw-page-10 .skw-page__half--left .skw-page__content {
+  background-image: url("../img/Залесской усадьбы.jpg");
+}
+.skw-page-10 .skw-page__half--right .skw-page__content {
+  background: #292929;
+}
 
+.skw-page-11 .skw-page__half--right .skw-page__content {
+  background-image: url("../img/Могилевский драматический театр .jpg");
+}
+.skw-page-11 .skw-page__half--left .skw-page__content {
+  background: #292929;
+}
 /*# sourceMappingURL=style__history.css.map */
