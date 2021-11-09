@@ -175,4 +175,10 @@
 .skw-page-11 .skw-page__half--left .skw-page__content {
   background: #292929;
 }
+.skw-page-12 .skw-page__half--left .skw-page__content {
+  background-image: url("../img/Сарьяновская свято-успенская церковь.jpg");
+}
+.skw-page-12 .skw-page__half--right .skw-page__content {
+  background: #292929;
+}
 /*# sourceMappingURL=style__history.css.map */
